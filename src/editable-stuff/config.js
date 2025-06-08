@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Rahmatulla. I'm currently a student of Engineering at KLE Technological University in Hubballi, Karnataka, pursuing a degree in Computer Science Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time, I enjoy working on open source projects.",
-  // resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+   resume: "https://drive.google.com/file/d/1IAmnc6h5wh-K07qenx2l8RRbmLfi-TKG/view?usp=sharing",
 };
 
 // PROJECTS SECTION
